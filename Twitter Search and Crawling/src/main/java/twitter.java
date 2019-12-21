@@ -23,10 +23,10 @@ public class twitter {
     public static Twitter startup(){
         ConfigurationBuilder cb = new ConfigurationBuilder();
         cb.setDebugEnabled(true)
-                .setOAuthConsumerKey("j5adCXSO6PzKZUgbxLiARd6ps")
-                .setOAuthConsumerSecret("fvehnR6BvG56htyhvKiq1KRcWb2bJSJj5zBqaezbzgz4bsn6ml")
-                .setOAuthAccessToken("1196974064390172673-hJ074sK50dVts64VxMva4oMKD8DBOY")
-                .setOAuthAccessTokenSecret("sXSScdqQkjjDFlsFZCvYe70ObCS2Wdiob0XRAlzJdgbLT");
+                .setOAuthConsumerKey("") //add your key here
+                .setOAuthConsumerSecret("") //add your key here
+                .setOAuthAccessToken("") //add your key here
+                .setOAuthAccessTokenSecret(""); //add your key here
         TwitterFactory tf = new TwitterFactory(cb.build());
         return tf.getInstance();
     }
