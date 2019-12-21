@@ -1,0 +1,10 @@
+text/html; charset=utf-8	115.0
+text/html; charset=UTF-8	82.0
+text/html; charset="utf-8"	41.0
+text/html	38.0
+text/html;charset=UTF-8	14.0
+text/html;charset=utf-8	5.0
+text/html;charset=ISO-8859-1	2.0
+text/html; Charset=UTF-8	1.0
+text/html;;charset=UTF-8	1.0
+text/html; charset=iso-8859-1	1.0

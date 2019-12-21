@@ -1,0 +1,104 @@
+Unique Links Encountered: 13226
+Unique Links Traversed: 433
+Average Depth: 1.2309468822170901
+InLink Count: 348.0
+https://www.boredpanda.com/monkey-adopts-puppy-erode-india/?fbclid=IwAR0JMGITM7p6Mz2RnDHqUHW5GtUUT_mnoeqp7QqFAMBEZTEKgJz-labQ6QA&utm_source=facebook&utm_medium=social&utm_campaign=organicjavascript:void(0);
+InLink Count: 146.0
+https://www.manyvids.com/Video/1574783/Mommys-Little-Cuckjavascript:;
+InLink Count: 139.0
+https://theenglishkitchen.blogspot.com/2019/12/sugared-date-squares.htmljavascript:void(0)
+InLink Count: 103.0
+https://www.manyvids.com/Video/1574783/Mommys-Little-Cuck/Profile/1001845493/Queen-Brea/
+InLink Count: 83.0
+https://aws.im/1nsIjavascript:void(0)
+InLink Count: 83.0
+https://aws.im/1nsbjavascript:void(0)
+InLink Count: 81.0
+https://aws.im/1nssjavascript:void(0)
+InLink Count: 81.0
+https://aws.im/1nsjjavascript:void(0)
+InLink Count: 80.0
+https://www.youtube.com/BonAppetitDotCom/channel/UCbpMy0Fg74eXXkvxJrtEn3w
+InLink Count: 80.0
+https://www.fair-vision.eu/benecos-compact-blush-toasted-toffee-10520#
+InLink Count: 69.0
+https://developer.mixpanel.com/docs/implement-mixpanel
+InLink Count: 68.0
+https://shindanmaker.blogspot.com/javascript:void(0)
+InLink Count: 55.0
+https://www.southernliving.com/
+InLink Count: 47.0
+https://www.thaiticketmajor.com/all-event/
+InLink Count: 43.0
+http://naver.me/5oOJAju3#
+InLink Count: 43.0
+https://n.news.naver.com/article/018/0004541434?type=main#
+InLink Count: 31.0
+https://nl.trustpilot.com/review/fair-vision.eu
+InLink Count: 29.0
+https://weloveanimals.me/category/animals/
+InLink Count: 27.0
+https://www.facebook.com/recover/initiate?lwv=110&ars=royal_blue_bar
+InLink Count: 27.0
+https://trustpilot.com
+InLink Count: 27.0
+https://www.southernliving.com
+InLink Count: 26.0
+https://generatepress.com/premium#module-info
+InLink Count: 24.0
+https://www.southernliving.com/christmas
+InLink Count: 23.0
+https://www.awlists.com/
+InLink Count: 23.0
+https://www.thaiticketmajor.com/all-event/javascript:void(0);
+
+ 
+ 
+OutLink Count: 1538.0
+https://www.fair-vision.eu/benecos-compact-blush-toasted-toffee-10520
+OutLink Count: 881.0
+https://www.boredpanda.com/monkey-adopts-puppy-erode-india/?fbclid=IwAR0JMGITM7p6Mz2RnDHqUHW5GtUUT_mnoeqp7QqFAMBEZTEKgJz-labQ6QA&utm_source=facebook&utm_medium=social&utm_campaign=organic
+OutLink Count: 485.0
+https://theenglishkitchen.blogspot.com/2019/12/sugared-date-squares.html
+OutLink Count: 458.0
+https://www.manyvids.com/Video/1574783/Mommys-Little-Cuck
+OutLink Count: 414.0
+https://www.bonanza.com/community_help
+OutLink Count: 385.0
+https://www.southernliving.com
+OutLink Count: 382.0
+https://www.thaiticketmajor.com/all-event/
+OutLink Count: 378.0
+https://www.bonanza.com/listings/716147803
+OutLink Count: 372.0
+https://www.ebay.com/
+OutLink Count: 368.0
+https://en.wikipedia.org/wiki/Sticky_toffee_pudding
+OutLink Count: 362.0
+https://www.youtube.com/BonAppetitDotCom
+OutLink Count: 344.0
+https://ch.nicovideo.jp/portal/blomaga?header
+OutLink Count: 282.0
+https://www.southernliving.com/video
+OutLink Count: 282.0
+https://aws.im/1nsI
+OutLink Count: 282.0
+https://aws.im/1nsb
+OutLink Count: 280.0
+https://refer.adultwork.com/?PID=7074&T=Shop.asp%3Futm_source%3Dinsider%26utm_medium%3Ddisplay%26utm_campaign%3Dinsider_regular_ads
+OutLink Count: 280.0
+https://aws.im/1nss
+OutLink Count: 280.0
+https://aws.im/1nsj
+OutLink Count: 256.0
+https://shindanmaker.blogspot.com/
+OutLink Count: 247.0
+https://www.the-girl-who-ate-everything.com/saltine-cracker-toffee/
+OutLink Count: 234.0
+https://www.azfamily.com/news/us_world_news/puppy-loses-ear-after-grooming-appointment-at-petco/article_9566d96a-8c0f-51b0-9c35-a37961253544.html?fbclid=IwAR3QTEWp13dBawpIIx2efqkQBLlH2Uu0ArEvGIVwO2Qy3uyNg1ykm__o-VY
+OutLink Count: 208.0
+https://www.nicovideo.jp/?header
+OutLink Count: 206.0
+https://media.naver.com/press/018
+OutLink Count: 204.0
+https://weloveanimals.me/german-shepherd-adopts-adorable-newborn-pygmy-goat/
